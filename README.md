@@ -3,6 +3,7 @@
 - 👨‍💻 All of my projects are available at https://github.com/nishalbarman?tab=repositories
 - 📫 How to reach me nishalbarman@gmail.com
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishalbarman&label=Profile%20views&color=0e75b6&style=flat" alt="nishalbarman" /> </p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nishal.barman.35) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nishalbarman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishalbarman) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nishalbarman) 
@@ -18,6 +19,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nishal Barman&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
