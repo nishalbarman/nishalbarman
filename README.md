@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishalbarman&label=Profile%20views&color=0e75b6&style=flat" alt="nishalbarman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishalbarman" alt="nishalbarman" /></a> </p>
-
-- 🌱 I’m currently learning **Javscript and React**
+- 🌱 I’m currently learning **Javascript and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nishalbarman?tab=repositories](https://github.com/nishalbarman?tab=repositories)
 
