@@ -1,6 +1,7 @@
 # 💫 About Me:
 - 🌱 I’m currently learning Javascript and React
 - 👨‍💻 All of my projects are available at https://github.com/nishalbarman?tab=repositories
+- 👨‍💻 Visit my portfolio website at https://nishalbarman.github.io/
 - 📫 How to reach me nishalbarman@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishalbarman&label=Profile%20views&color=0e75b6&style=flat" alt="nishalbarman" /> </p>
